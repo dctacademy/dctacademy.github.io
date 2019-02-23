@@ -3,9 +3,11 @@ main:
   - title: "Home"
     url: #
   - title: "About Us"
-    url: #
+    url: /about-us/
   - title: "Courses"
     url: #
+  - title: "Gallery"
+    url: /gallery/
   - title: "Placements"
     url: #
   - title: "Contact Us"
